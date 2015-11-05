@@ -3,6 +3,8 @@
 
 USING_NS_CC;
 
+//test comment!!"£"!£$$
+
 SecondScreen::SecondScreen()
 {
 	_scene = cocos2d::Scene::create();
